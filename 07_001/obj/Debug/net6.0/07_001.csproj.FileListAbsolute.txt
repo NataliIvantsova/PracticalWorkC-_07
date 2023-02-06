@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\bin\Debug\net6.0\07_001.exe
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\bin\Debug\net6.0\07_001.deps.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\bin\Debug\net6.0\07_001.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\bin\Debug\net6.0\07_001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\bin\Debug\net6.0\07_001.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\refint\07_001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\07_001.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Знакомство с языками программирования\PracticalWorkC#\PracticalWorkC#_07\07_001\obj\Debug\net6.0\ref\07_001.dll
