@@ -38,6 +38,9 @@ void PrintArray(double[,] matrix)
         Console.WriteLine();
     }
 }
+
+
+
 int m = InputInt("Введите количество строк в массиве: ");
 
 int n = InputInt("Введите количество столбцов в массиве: ");
