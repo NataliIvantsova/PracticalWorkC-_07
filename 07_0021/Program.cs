@@ -55,7 +55,7 @@ int Find(int[,] element, int number)// фукция принимает на вх
     {
         for (int j = 0; j < element.GetLength(1); j++)
         {
-            if (element[i, j] == number) ;
+            if (element[i, j] == number)
             return element[i,j];
         }
     }
