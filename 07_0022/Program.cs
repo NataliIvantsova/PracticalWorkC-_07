@@ -48,22 +48,15 @@ PrintArray(matrix);
 
 int p = InputInt("Введите позицию элемента в строке ");
 int d = InputInt("Введите позицию элемента в столбце ");
-// int Fun(int[] arr, int num, int arr[p,d])
-// {
-int num = matrix[p - 1, d - 1];
-for (int i = 0; i < matrix.GetLength(0); i++)
-{
-    for (int j = 0; j < matrix.GetLength(1); j++)
-    {
-        if (matrix[i, j] == num) ;
-        System.Console.WriteLine($"Это число {num}");
-    //     else
-    //     {
-    //         System.Console.WriteLine("такого элемента нет");
-    //     }
-    //    // return arr[i, j];
-    }
-}
-//}
-//matrix[i, j] = Fun([],num);
 
+
+
+if (p < 1 || p > matrix.GetLength(0) || d < 1 || d > matrix.GetLength(1))
+{
+    System.Console.WriteLine("Tакого элемента нет");
+}
+else
+{
+    int num = matrix[p - 1, d - 1];
+    System.Console.WriteLine(num);
+}

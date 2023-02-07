@@ -14,8 +14,8 @@ int[,] matrix = CreateMatrix(m, n);
 PrintArray(matrix);
 int p = InputInt("Введите позицию элемента в строке ");
 int d = InputInt("Введите позицию элемента в столбце ");
-int number = matrix[p, d];
-Find(matrix,number);
+// int number = matrix[p, d];
+int num = Find(matrix,matrix[p,d]);
 
 int InputInt(string message)
 {
@@ -59,7 +59,7 @@ int Find(int[,] element, int number)// фукция принимает на вх
             return element[i,j];
         }
     }
-    //// return -1;
-    // System.Console.WriteLine($"такого элемента нет");
+    System.Console.WriteLine($"такого элемента нет");
+    return -1;
 }
 
