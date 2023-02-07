@@ -59,7 +59,6 @@ int Find(int[,] element, int number)// фукция принимает на вх
             return element[i,j];
         }
     }
-    System.Console.WriteLine($"такого элемента нет");
     return -1;
 }
-
+System.Console.WriteLine($"такого элемента нет");

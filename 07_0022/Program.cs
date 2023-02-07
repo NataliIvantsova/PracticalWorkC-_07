@@ -46,17 +46,19 @@ void PrintArray(int[,] array)
 int[,] matrix = CreateMatrix();
 PrintArray(matrix);
 
-int p = InputInt("Введите позицию элемента в строке ");
-int d = InputInt("Введите позицию элемента в столбце ");
+int l = InputInt("Введите позицию элемента в строке ");
+int a = InputInt("Введите позицию элемента в столбце ");
+FindNum(matrix,l,a);
 
-
-
-if (p < 1 || p > matrix.GetLength(0) || d < 1 || d > matrix.GetLength(1))
+void FindNum(int[,] array, int p, int d)
 {
-    System.Console.WriteLine("Tакого элемента нет");
-}
-else
-{
-    int num = matrix[p - 1, d - 1];
-    System.Console.WriteLine(num);
+    if (p < 1 || p > matrix.GetLength(0) || d < 1 || d > matrix.GetLength(1))
+    {
+        System.Console.WriteLine("Tакого элемента нет");
+    }
+    else
+    {
+        int num = matrix[p - 1, d - 1];
+        System.Console.WriteLine(num);
+    }
 }

@@ -52,7 +52,6 @@ void PrintArray(int[,] arr)
             }
         }
     }
-    System.Console.WriteLine("такого элемента нет");
     return (-1, -1);
 }
-
+    System.Console.WriteLine("такого элемента нет");
