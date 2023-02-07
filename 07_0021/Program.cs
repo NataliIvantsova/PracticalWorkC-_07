@@ -14,8 +14,8 @@ int[,] matrix = CreateMatrix(m, n);
 PrintArray(matrix);
 int p = InputInt("Введите позицию элемента в строке ");
 int d = InputInt("Введите позицию элемента в столбце ");
-// int number = matrix[p, d];
-int num = Find(matrix,matrix[p,d]);
+int number = matrix[p-1, d-1];
+System.Console.WriteLine(Find(matrix, number));//
 
 int InputInt(string message)
 {
